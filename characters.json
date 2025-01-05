@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Sam",
+        "age": "34",
+        "race": "Human",
+        "role": "Warlock",
+        "level": 1,
+        "hp": 19,
+        "ac": 13
+    },
+    {
+        "name": "Hannah",
+        "age": "654",
+        "race": "Goblin",
+        "role": "Outlaw",
+        "level": 1,
+        "hp": 18,
+        "ac": 15
+    }
+]
