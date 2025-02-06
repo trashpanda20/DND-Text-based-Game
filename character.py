@@ -61,7 +61,7 @@ def from_dict(character, data):
 def creating():
         name = input("What is your name, mysterious adventurer? \n")
         race = input("What kind of creature are you? \n")
-        age =  input(f"Ah, yes. I see now. How old might you be? I always seem to never be able to tell with {race}s. \n")
+        age =  input(f"Ah, yes. I see now. How old might you be? I always seem to never be able to tell with {race}. \n")
         for role,details in character.ROLES.items():
             print(f"{role}:")
             print(details["Description"])
